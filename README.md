@@ -13,3 +13,15 @@ Galactic Predictor is a data analysis project focused on studying the success ra
 | 5. Modeling          | Applying statistical and machine learning models to predict launch success.                   |
 | 6. Evaluation        | Assessing model accuracy and reliability using appropriate metrics and validation techniques. |
 | 7. Deployment        | Integrating the predictive model into a usable application or reporting system.               |
+
+
+
+### This project aims to identify and analyze the underlying patterns associated with successful and unsuccessful SpaceX rocket launches.
+
+#### A successful launch is illustrated below:
+
+![success](https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMDeveloperSkillsNetwork-DS0701EN-SkillsNetwork/lab_v2/images/landing_1.gif)
+
+#### Conversely, the following image represents an unsuccessful launch outcome:
+
+![fail](https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMDeveloperSkillsNetwork-DS0701EN-SkillsNetwork/lab_v2/images/crash.gif)
