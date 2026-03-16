@@ -20,8 +20,8 @@ Galactic Predictor is a data analysis project focused on studying the success ra
 
 #### A successful launch is illustrated below:
 
-![success](https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMDeveloperSkillsNetwork-DS0701EN-SkillsNetwork/lab_v2/images/landing_1.gif)
+![success](landing_1.gif)
 
 #### Conversely, the following image represents an unsuccessful launch outcome:
 
-![fail](https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMDeveloperSkillsNetwork-DS0701EN-SkillsNetwork/lab_v2/images/crash.gif)
+![fail](crash.gif)
